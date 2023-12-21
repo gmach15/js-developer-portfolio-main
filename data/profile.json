@@ -1,0 +1,90 @@
+{
+  "name": "Gabriel Machado",
+  "photo": "https://avatars.githubusercontent.com/u/139392637?v=4",
+  "position": "Mestrando em SI",
+  "location": "Coimbra - PT",
+  "phone": "(74) 9 9972-6211",
+  "email": "Gabriel.smg@icloud.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "Visual Studio Code",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      }
+    ],
+    "softSkills": [
+      "Liderança",
+      "Boa comunicação",
+      "Organização",
+      "Orientado a resultados",
+      "Flexibilidade"
+    ]
+  },
+  "education": [
+    {
+      "course": "Mestrado em Sistemas de Informação de Gestão",
+      "institute":"Coimbra Business School | ISCAC",
+      "url": "https://www.iscac.pt/",
+      "period": "[Set 2023 - Até o momento]",
+      "description": "Ciências empresariais e informáticas: Programas e qualificações interdisciplinares para a gestão e consultoria em sistemas de informação empresariais, industriais e logísticos."
+    },
+    {
+      "course": "MBA em Gerenciamento de Projetos",
+      "institute":"Fundação Getúlio Vargas | FGV",
+      "url": "https://educacao-executiva.fgv.br",
+      "period": "[Abr 2020 - Ago 2021]",
+      "description": "Ciências empresariais, administração e direito: Programas e qualificações interdisciplinares que envolvem as ciências empresariais, administração e direito."
+    },
+    {
+      "course": "Bacharel em Relações Internacionais",
+      "institute":"Universidade Federal de Sergipe | UFS",
+      "url": "https://www.ufs.br/",
+      "period": "[Mar 2015 - Mai 2018]",
+      "description": "Ciências políticas e econômicas, negociação e direito internacional: Programas e qualificações interdisciplinares para análise de conjunturas, planejamento estratégico e inteligência competitiva."
+    }
+  ],
+  "languages": [
+    "Português",
+    "Inglês (avançado)",
+    "Espanhol (avançado)"
+  ],
+  "portfolio": [
+    {
+      "name": "Desafio DIO da Formação JS Developer para a criação de uma Pokedex",
+      "url": "https://github.com/gmach15/desafio-pokedex",
+      "github": true
+    },
+    {
+      "name": "Desafio DIO da Formação JS Developer para a criação de portfolio",
+      "url": "https://github.com/gmach15/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "experience": [
+    {
+      "name": "Analista em Tecnologia da Informação / SERGRANBEL",
+      "period": "[Jan 2022 - Nov 2023]",
+      "description": "Implantação e teste de softwares / Alimentação e manutenção oportuna dos sistemas de gestão / Coordenação da equipe de ATI"
+    }
+  ]
+}
