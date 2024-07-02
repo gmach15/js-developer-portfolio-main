@@ -24,6 +24,14 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
+        "name": "java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
         "name": "GitHub",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       },
