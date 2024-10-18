@@ -28,8 +28,12 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "name": "SQL Server",
+        "logo": "https://github.com/gmach15/js-developer-portfolio-main/blob/main/data/imgs/SQLServer.png"
+      },
+      {
+        "name": ".NET",
+        "logo": "https://github.com/gmach15/js-developer-portfolio-main/blob/main/data/imgs/DotNet.png"
       },
       {
         "name": "GitHub",
@@ -103,6 +107,11 @@
       "name": "Analista em Tecnologia da Informação / SERGRANBEL",
       "period": "[Jan 2022 - Nov 2023]",
       "description": "Implantação e teste de softwares / Alimentação e manutenção oportuna dos sistemas de gestão / Coordenação da equipe de ATI"
+    },
+    {
+      "name": "Técnico PHC Júnior / JORINF",
+      "period": "[Jul 2024 - Até o momento]",
+      "description": "Implementação de software / Suporte Técnico / Atualizações e manutenções / Desenvolvimentos em Frameworks"
     }
   ]
 }
