@@ -29,11 +29,11 @@
       },
       {
         "name": "SQL Server",
-        "logo": "https://github.com/gmach15/js-developer-portfolio/blob/main/data/imgs/SQLServer.png"
+        "logo": "https://raw.githubusercontent.com/gmach15/js-developer-portfolio/main/data/imgs/SQLServer.png"
       },
       {
         "name": ".NET",
-        "logo": "https://github.com/gmach15/js-developer-portfolio/blob/main/data/imgs/DotNet.png"
+        "logo": "https://raw.githubusercontent.com/gmach15/js-developer-portfolio/main/data/imgs/DotNet.png"
       },
       {
         "name": "GitHub",
