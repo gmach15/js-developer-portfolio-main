@@ -32,6 +32,10 @@
         "logo": "https://raw.githubusercontent.com/gmach15/js-developer-portfolio/main/data/imgs/SQLServer.png"
       },
       {
+        "name": "PHC",
+        "logo": "https://raw.githubusercontent.com/gmach15/js-developer-portfolio/main/data/imgs/phc.png"
+      },
+      {
         "name": ".NET",
         "logo": "https://raw.githubusercontent.com/gmach15/js-developer-portfolio/main/data/imgs/DotNet.png"
       },
